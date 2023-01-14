@@ -1,0 +1,104 @@
+.tendiv{
+  display: flex;
+  flex-direction: row;
+  background-color: #506F88;
+  color: white;
+}
+.one{
+  display: flex;
+  flex-direction: column;
+  margin-right: 40px;
+  margin-left: 100px;
+  
+}
+.two{
+  display: flex;
+  flex-direction: column;
+  margin-right: 40px;
+  margin-top: 26px;
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: px;
+  text-align: left;
+}
+.three{
+  display: flex;
+  flex-direction: column;
+  margin-right: 40px;
+  margin-top: 26px;
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 31px;
+  text-align: left;
+}
+.four{
+  display: flex;
+  flex-direction: column;
+  margin-right: 40px;
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 31px;
+  text-align: left;
+  margin-top: 26px;
+
+}
+select{
+  background-color: white;
+  color: #506F88;
+  font-family: Sora;
+  font-size: 26px;
+  font-weight: 700;
+  text-align: center;
+  height: 81px;
+  width: 393px;
+}
+.head{
+  font-family: Sora;
+  font-size: 26px;
+  font-weight: 700;
+  text-align: left;
+}
+.height{
+  line-height: 65px;
+  width: 218px;
+}
+.size{
+  height: 44px;
+  width: 44px;
+  
+}
+.sizet{
+  height: 35px;
+  width: 43.313072204589844px;
+
+
+}
+
+.five{
+  padding-top: 50px;
+  display: flex;
+  background-color: #506F88;
+  padding-left: 120px;
+  font-family: Sora;
+  font-size: 26px;
+  font-weight: 700;
+  color: white;
+  padding-bottom: 40px;
+  align-items: center;
+
+  
+}
+.sizes{
+  background-color: #506F88;
+  border: none;
+  margin-right: 30px;
+}
+.cwidth{
+  margin-right: 200px;
+}
+.selector{
+  padding-right: 190px;
+}
